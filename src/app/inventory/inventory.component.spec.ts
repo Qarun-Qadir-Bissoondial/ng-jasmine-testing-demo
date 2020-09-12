@@ -3,7 +3,7 @@ import { InventoryComponent } from './inventory.component';
 import { InventoryService } from '../inventory.service';
 import { MockInventoryService } from 'src/testing/inventory.mock.service';
 
-fdescribe('InventoryComponent', () => {
+describe('InventoryComponent', () => {
   let component: InventoryComponent;
   let fixture: ComponentFixture<InventoryComponent>;
   

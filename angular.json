@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-jasmine-testing-demo"
+    }
+  },
+  "defaultProject": "ng-jasmine-testing-demo",
+  "cli": {
+    "analytics": false
+  }
 }
